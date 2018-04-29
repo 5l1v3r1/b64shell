@@ -1,6 +1,6 @@
 # b64shell
-b64shell enconding automatization.
-
+##b64shell enconding automatization.
+```
 Usage: ./b64shell <mode> <ip> <port>"
           Modes:
                 python-tcp
@@ -16,3 +16,4 @@ Usage: ./b64shell <mode> <ip> <port>"
                 nc-tcp      #netcat no traditional
                 nc-udp
                 php"""
+```
