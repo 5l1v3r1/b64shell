@@ -1,5 +1,5 @@
 # b64shell
-##b64shell enconding automatization.
+## b64shell enconding automatization.
 ```
 Usage: ./b64shell <mode> <ip> <port>"
           Modes:
