@@ -15,5 +15,5 @@ Usage: ./b64shell <mode> <ip> <port>"
                 nc-tr-udp
                 nc-tcp      #netcat no traditional
                 nc-udp
-                php"""
+                php
 ```
